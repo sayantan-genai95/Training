@@ -1,3 +1,6 @@
 First Line
 Second Line
 Third Line
+Fourth line added through GitBash
+Fifth line added through GitBas
+Sixth line added through GitBash
